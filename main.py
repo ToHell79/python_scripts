@@ -41,7 +41,7 @@ onSweetPies = InlineKeyboardMarkup(inline_keyboard=[
 ])
 
 onPizzaMenu = InlineKeyboardMarkup(inline_keyboard=[
-    [InlineKeyboardButton(text="Маргарита", callback_data="margarita")],
+    [InlineKeyboardButton(text="Маргарита 👋", callback_data="margarita")],
     [InlineKeyboardButton(text="Пеперони", callback_data="peperonni")],
     [InlineKeyboardButton(text="4 Сезона", callback_data="4sezon")],
     [InlineKeyboardButton(text="Гавайская 👋", callback_data="hawaiy")]
